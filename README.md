@@ -1,3 +1,1 @@
-SUPER LIGHT WEIGHT TEXT ED
-use your console to type
-
+Light weight text ed
